@@ -1,3 +1,5 @@
+package Ejercicio17;
+
 /**
  * La clase Main inicializa el parking y crea diferentes hilos (Coche) para simular el aparcamiento de diferentes coches
  * @author Santiago Romero

@@ -1,3 +1,5 @@
+package Ejercicio17;
+
 import java.util.Random;
 
 /**
